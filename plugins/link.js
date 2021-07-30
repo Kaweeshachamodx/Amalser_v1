@@ -1,0 +1,1 @@
+const Asena = require('../events');const {MessageType} = require('@adiwajshing/baileys'); Asena.addCommand({pattern: 'link', fromMe: false}, (async (message, match) => { await message.sendMessage(".invite"); }));
