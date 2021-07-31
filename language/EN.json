@@ -184,12 +184,12 @@
             "TTS_DESC": "It converts text to sound.",
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
-            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naran```",
+            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song menike mage hithe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Searching 🥰*\n",
-            "UPLOADING_SONG": "\n*0:35 ━❍──────── -5:32*\n*↻      ⊲      Ⅱ      ⊳       ↺*\n*VOLUME: ▁▂▃▄▅▆▇ 100%*\n*feel the music 🎧*\n",
+            "DOWNLOADING_SONG": "\n*Searching your song 🥰*\n",
+            "UPLOADING_SONG": "\n*0:35 ━❍──────── -5:32*\n*↻      ⊲      Ⅱ      ⊳       ↺*\n*feel the music 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link! Allakkil kalanjitt ponam*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading... Please wait few seconds```",
             "UPLOADING_VIDEO": "\n*Uploading...*\n*🎤 voice message (3:00)*\n",
             "YT_DESC": "It searchs on YouTube.",
@@ -199,7 +199,7 @@
             "SEARCHING": "*🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "```Uploading photo chilappo varum😉 mamanod onum thonalle😁``` *{}* ```number``` *{}*"
+            "IMG": "*Pinky💘 Uploading photos {} number {}*"
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
@@ -216,14 +216,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Amalser bot is completely up-to-date!*",
-            "NEW_UPDATE": "*Amalser Update und*\n\n*please ask support group before updating. Otherwise chance to get error*\n\n*https://chat.whatsapp.com/DHYuPadEvEw4wvs93NtL6n*\n\nChanges:\n```",
+            "UPDATE": "*PINKY-BOT💘 is completely up-to-date!*",
+            "NEW_UPDATE": "*PINKY-BOT Update und*\n\n*please ask support group before updating. Otherwise chance to get error*\n\n*https://chat.whatsapp.com/Fkjo74aVwXYINlJAhZWxYC*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Updating..please wait karo baii😊```",
+            "UPDATING": "*Pinky bot Updating..please wait 😊*",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated 🧸✅  sanam set👍*",
+            "UPDATED": "*Updated 🧸✅ UPDATED👍*",
             "UPDATED_LOCAL": "*✅ Successfully Updated 😍😍😍!*",
-            "AFTER_UPDATE": "*💘 Amalser Restarting  please wait 5mints*"
+            "AFTER_UPDATE": "*💘PINKY Restarting  please wait 5mints*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
