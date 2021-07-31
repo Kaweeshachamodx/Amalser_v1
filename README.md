@@ -52,7 +52,7 @@ Base, Bug Fixes, Modules | 
   
 297
 
-## ⚡Developers
-..............................
+## ⚡Special thanks for Mr.chabi
+  🔗 https://github.com/MrChaby/Jessi
 
 
