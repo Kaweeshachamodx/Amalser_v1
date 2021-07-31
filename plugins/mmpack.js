@@ -7,7 +7,7 @@ const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
 const ll ="*Need some Word*"
-const Ln = "*▷Amalser💘നിങ്ങൾ ആഗ്രഹിക്കുന്ന രീതിയിൽ മെമ്മുകൾ ഇച്ഛാനുസൃതമാക്കാൻ മെമ്മെ ലിസ്റ്റ്◁* "
+const Ln = "*▷PINKY_BOT💘meme pack◁* "
  const code = "*╔═════◉Amalser◉═════╗*\n           Amalser\n*❖═List═❖*\n\n*💠.yasai       ❴your text❵*\n*💠.uddika    ❴your text❵*\n*💠.aah          ❴your text❵*\n*💠.sir            ❴your text❵*\n*💠.my3         ❴your text❵*\n*💠.fuck         ❴your text❵*\n*💠.hii             ❴your text❵*\n*💠.asai          ❴your text❵*\n*💠.hapoi       ❴your text❵*\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Translate Credit: Amalser*"
 
 if (Config.WORKTYPE == 'public') {
