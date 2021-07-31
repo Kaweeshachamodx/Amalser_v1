@@ -2,7 +2,7 @@
 Its_me_Amal
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
+  <img src=https://i.imgur.com/MZDCN2M.jpeg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
