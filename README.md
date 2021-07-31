@@ -47,42 +47,12 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![Kaweesha Chamod](<img src=https://i.imgur.com/MZDCN2M.jpeg>
  https://i.imgur.com/MZDCN2M.jpeg |  
 ----|
-[Its_me_Amal](https://github.com/Kaweeshachamodx/Amalser_v1)  |
+[Its_me_ᴋᴀᴡᴇᴇꜱʜᴀ](https://github.com/Kaweeshachamodx/Amalser_v1)  |
 Base, Bug Fixes, Modules | 
   
 297
 
 ## ⚡Developers
-
-298
-
-  <div align="center">
-
-299
-
-    
-
-300
-
-  [![_________](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![_________](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![_________](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-
-301
-
-----|----|----
-
-302
-
-[ᴇɴ⚡ᴄᴜɪᴢᴇʀ](https://github.com/farhan-dqz)  | [ᴛᴜʀᴜ⚡𝐗](https://github.com/AI-VIKI) | [ᴍᴀꜱʜ⚡ᴢ](https://github.com/afnanplk)
-
-303
-
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-
-304
-
-  </div>
-
-305    
-
+..............................
 
 
