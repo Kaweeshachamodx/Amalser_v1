@@ -8,7 +8,7 @@ const axios = require('axios');
 const Config = require('../config');
 const ll ="*Need some Word*"
 const Ln = "*▷PINKY_BOT💘meme pack◁* "
- const code = "*╔═════◉Amalser◉═════╗*\n           Amalser\n*❖═List═❖*\n\n*💠.yasai       ❴your text❵*\n*💠.uddika    ❴your text❵*\n*💠.aah          ❴your text❵*\n*💠.sir            ❴your text❵*\n*💠.my3         ❴your text❵*\n*💠.fuck         ❴your text❵*\n*💠.hii             ❴your text❵*\n*💠.asai          ❴your text❵*\n*💠.hapoi       ❴your text❵*\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Translate Credit: Amalser*"
+ const code = "*╔════◉𝐏𝐈𝐍𝐊𝐘-𝐁𝐎𝐓◉════╗*\n           Amalser\n*❖═List═❖*\n\n*💠.yasai       ❴your text❵*\n*💠.uddika    ❴your text❵*\n*💠.aah          ❴your text❵*\n*💠.sir            ❴your text❵*\n*💠.my3         ❴your text❵*\n*💠.fuck         ❴your text❵*\n*💠.hii             ❴your text❵*\n*💠.asai          ❴your text❵*\n*💠.hapoi       ❴your text❵*\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Translate Credit: Amalser*"
 
 if (Config.WORKTYPE == 'public') {
     
