@@ -107,13 +107,13 @@
             "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME!```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅Amalser Welcome message has been set successfully! Eni aru vannalum nan welcome cheyyum muthe💘*",
+            "WELCOME_SETTED": "*✅PINKY-BOT Welcome message has been set successfully!*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye Your Goodbye Message```",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
             "NEED_GOODBYE_TEXT": "*You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye Goodbye!```",
             "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-            "GOODBYE_SETTED": "*✅Amalser Goodbye message has been setted successfully! Eni aru left ayalum nan adharangalikal arpikum✝️*"
+            "GOODBYE_SETTED": "*✅PINKY-BOY Goodbye message has been setted successfully!*"
         },
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
@@ -127,7 +127,7 @@
         },
         "memes": {
             "MEMES_DESC": "Photo memes you replied to  allakil kalanjitt pooda.",
-            "NEED_REPLY": "*Reply to a photo! Allakil kalanjitt poo*",
+            "NEED_REPLY": "*Reply to a photo!*",
             "DOWNLOADING": "```Downloading media & making meme...```"
         },
         "log": {
@@ -155,7 +155,7 @@
             "PPING": "```Setting profile photo...```",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
-            "BLOCKED": "blocked",
+            "BLOCKED": "*I blocked you 😡*",
             "UNBLOCKED": "unblocked",
             "BLOCKED_UPPER": "Blocked!",
             "UNBLOCKED_UPPER": "Unblocked.",
@@ -186,8 +186,8 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song menike mage hithe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Searching your song 🥰*\n",
-            "UPLOADING_SONG": "\n*0:35 ━❍──────── -5:32*\n*↻      ⊲      Ⅱ      ⊳       ↺*\n*feel the music 🎧*\n",
+            "DOWNLOADING_SONG": "*Searching your song 🥰*",
+            "UPLOADING_SONG": "*0:35 ━❍──────── -5:32*\n*↻      ⊲      Ⅱ      ⊳       ↺*\n*feel the music 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading... Please wait few seconds```",
