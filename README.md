@@ -47,7 +47,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![Kaweesha Chamod](<img src=https://i.imgur.com/MZDCN2M.jpeg>
  https://github.com/MrChaby/Jessi |  
 ----|
-[Its_me_ᴋᴀᴡᴇᴇꜱʜᴀ](https://github.com/Kaweeshachamodx/Amalser_v1)  |
+[Its_my_fridend Mr.chabi](https://github.com/MrChaby/Jessi)  |
 Base, Bug Fixes, Modules | 
   
 297
