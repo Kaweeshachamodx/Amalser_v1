@@ -17,10 +17,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💘Amal ser💘━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💘𝐏𝐈𝐍𝐊𝐘-𝐁𝐎𝐓💘━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Amalser 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 𝐏𝐢𝐧𝐤𝐲 𝐛𝐨𝐭.
   
 *http://ẉa.me/➳Amal*
 
@@ -79,7 +79,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🎧𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□Amal💘■□■□■□■□■□
+■□■□■□■□■□💘■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -135,8 +135,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🎧𝙐𝙨𝙚➜ Converts text into glowing sticker.
 🎯ex  attp amalser
 ■□■□■□■□■□■□■□■□■□■□
-═════💢Amalser💢═════
-▣▣▣▣▣▣▣▣▣💘Amalser💘▣▣▣▣▣▣▣▣▣▣▣
+════💢𝐏𝐈𝐍𝐊𝐘-𝐁𝐎𝐓💢════
+▣▣▣▣▣▣▣▣▣💘𝐏𝐈𝐍𝐊𝐘💘▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
