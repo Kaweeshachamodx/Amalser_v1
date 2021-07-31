@@ -44,7 +44,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://i.imgur.com/MZDCN2M.jpeg>
+  [![Kaweesha Chamod](<img src=https://i.imgur.com/MZDCN2M.jpeg>
  https://github.com/Amalser_v1 |  
 ----|
 [Its_me_Amal](https://github.com/Kaweeshachamodx/Amalser_v1)  |
