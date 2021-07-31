@@ -44,7 +44,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Kaweesha Chamod](<img src=https://i.imgur.com/MZDCN2M.jpeg>
+  [![Kaweesha Chamod](<img src=https://telegra.ph/file/43671afb59b0578ad4a46.jpg>
  https://github.com/MrChaby/Jessi |  
 ----|
 [Its_my_fridend Mr.chabi](https://github.com/MrChaby/Jessi)  |
