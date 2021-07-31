@@ -1,5 +1,5 @@
 <div align="center">
-Its_me_Amal
+Its_me_Kaweesha
 
 <div align="center">
   <img src=https://i.imgur.com/MZDCN2M.jpeg>
@@ -21,7 +21,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodx/Amalser_v1)
      </div>
 <br>
 <br >
