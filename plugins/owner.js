@@ -24,7 +24,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
 *Owner number https://wa.me/94763853788*
 
-*githublink       https://github.com/cyberchekuthan/Amalser_v1*
+*githublink       https://github.com/Kaweeshachamodx/Amalser_v1*
 
 *audio commads    https://github.com/cyberchekuthan/Amalser_v1/tree/master/uploads*
 
