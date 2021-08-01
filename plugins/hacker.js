@@ -15,6 +15,6 @@ Asena.addCommand({pattern: 'hacker ?(.*)', fromMe: false, dontAddCommandList: tr
   
     var webimage = await axios.get(`http://lolhuman.herokuapp.com/api/ephoto1/anonymhacker?apikey=6f3cf10b29c04421f7a8e943&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*kawesha*\n*smartbot*'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Made by PINKY-BOT💘*'})
 
     }));
