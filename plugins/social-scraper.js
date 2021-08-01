@@ -150,7 +150,7 @@ else if (cn.WORKTYPE == 'public') {
           )
       },
     )
-    Asena.addCommand({ pattern: 'tiktok ?(.*)', fromMe: true, desc: Tlang.TİKTOK }, async (message, match) => {
+    Asena.addCommand({ pattern: 'tiktolk ?(.*)', fromMe: true, desc: Tlang.TİKTOK }, async (message, match) => {
 
         const userName = match[1]
 
