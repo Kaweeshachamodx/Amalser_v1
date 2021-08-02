@@ -1,0 +1,1 @@
+const Asena = require('../events');const {MessageType} = require('@adiwajshing/baileys'); Asena.addCommand({pattern: 'x', fromMe: false}, (async (message, match) => { await message.sendMessage("Type to .help/.menu/.alive get commands🥰"); }));
