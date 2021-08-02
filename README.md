@@ -41,21 +41,26 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
-  <div align="center">
-    
-  [![Mr.chabi](<img src=https://telegra.ph/file/43671afb59b0578ad4a46.jpg>
- https://github.com/MrChaby/Jessi |  
-----|
-[Its_my_fridend Mr.chabi](https://github.com/MrChaby/Jessi)  |
-Base, Bug Fixes, Modules | 
-  
-297
+  297
 
 ## ⚡Special thanks for Mr.chabi
   🔗 https://github.com/MrChaby/Jessi
+  <div align="center">
 
-## Developers
+    
+
+  [![Mr.chabi](<img src=https://telegra.ph/file/43671afb59b0578ad4a46.jpg>
+
+ https://github.com/MrChaby/Jessi |  
+
+----|
+
+[Its_my_fridend Mr.chabi](https://github.com/MrChaby/Jessi)  |
+
+Base, Bug Fixes, Modules | 
+
+         
+            ## Developers
   <div align="center">
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
