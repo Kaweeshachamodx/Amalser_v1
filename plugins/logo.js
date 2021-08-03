@@ -11,7 +11,7 @@ const Language = require('../language');
 
 const Lang = Language.getString('ttp');
 
-Asena.addCommand({pattern: 'amalser', fromMe: false, desc: Lang.TXTTOIMG_DESC}, (async (message, match) => {    
+Asena.addCommand({pattern: 'logopack', fromMe: false, desc: Lang.TXTTOIMG_DESC}, (async (message, match) => {    
 
        
 
