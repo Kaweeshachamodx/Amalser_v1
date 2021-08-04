@@ -135,7 +135,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Amalser bot working perfectly 💘')
+            chalk.green.bold('*Pinky bot working perfectly 💘*')
         );
     });
     
